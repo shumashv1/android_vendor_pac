@@ -25,7 +25,6 @@ add_lunch_combo pac_t6vzw-userdebug
 add_lunch_combo pac_e975-userdebug
 add_lunch_combo pac_e980-userdebug
 add_lunch_combo pac_hammerhead-userdebug
-add_lunch_combo pac_ls990-userdebug
 add_lunch_combo pac_v500-userdebug
 # Motorola
 add_lunch_combo pac_condor-userbebug
@@ -50,6 +49,7 @@ add_lunch_combo pac_hlte-userdebug
 add_lunch_combo pac_hltetmo-userdebug
 add_lunch_combo pac_hltespr-userdebug
 add_lunch_combo pac_i9300-userdebug
+add_lunch_combo pac_i9500-userdebug
 add_lunch_combo pac_jflteatt-userdebug
 add_lunch_combo pac_jfltecan-userdebug
 add_lunch_combo pac_jfltespr-userdebug
@@ -73,6 +73,7 @@ add_lunch_combo pac_amami-userdebug
 add_lunch_combo pac_honami-userdebug
 add_lunch_combo pac_pollux-userdebug
 add_lunch_combo pac_pollux_windy-userdebug
+add_lunch_combo pac_sirius-userdebug
 # Sony Ericsson
 add_lunch_combo pac_anzu-userdebug
 add_lunch_combo pac_coconut-userdebug
